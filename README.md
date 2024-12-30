@@ -1,4 +1,5 @@
 # SQLCEManagementSystem
+![SQLCEManagemetSystem Preview](https://github.com/user-attachments/assets/23ace34a-ba6e-4a57-807e-56e8095717a3)
 
 ## Overview
 The SQLCEManagementSystem is a robust three-layer application developed using Visual Basic. It leverages the power of SQL Server Compact Edition for data management. The application follows a well-structured architecture with three key layers: Business Logic Layer (BLL), Data Access Layer (DAL), and User Interface (UI).
